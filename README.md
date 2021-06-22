@@ -1,5 +1,5 @@
-<p align='center'><img width='300' src="./.github/letmeask.png"/></p>
-<h1 align='center'>Podcastr</h1>
+<p align='center'><img width='157' src="./.github/letmeask.png"/></p>
+<h1 align='center'>Letmeask</h1>
 <p align='center'>
 <img src="https://img.shields.io/github/repo-size/rafaasimi/letmeask-nextlevelweektogether?color=835AFD">
 <img src="https://img.shields.io/github/languages/count/rafaasimi/letmeask-nextlevelweektogether?color=835AFD">
