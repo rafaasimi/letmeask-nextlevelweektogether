@@ -8,7 +8,7 @@
 </p>
 
 ## 🔖 Descrição
-<p>🎧 Letmeask, projeto criado na Next Level Week Together disponibilizada pela Rocketseat. A ferramenta tem como objetivo auxiliar os criadores de conteúdo a criar salas durante as transmissões, para que os usuários criem perguntas, votem nas mais relevantes e escolham quais devem ser respondidas.<p>
+<p>💬 Letmeask, projeto criado na Next Level Week Together disponibilizada pela Rocketseat. A ferramenta tem como objetivo auxiliar os criadores de conteúdo a criar salas durante as transmissões, para que os usuários criem perguntas, votem nas mais relevantes e escolham quais devem ser respondidas.<p>
 
 ## 🚀 Tecnologias
 Esse projeto está utilizando as seguintes tecnologias:
