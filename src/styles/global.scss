@@ -4,10 +4,16 @@
     box-sizing: border-box;
 }
 
+
 body {
     background: #F8F8F8;
     color: #29292e;
+    transition: background 0.2s;
 }
+
+body.dark {
+    background: #292c35;
+  }
 
 body, input, button, textarea {
     font: 400 16px 'Roboto', sans-serif;
