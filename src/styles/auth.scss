@@ -15,6 +15,7 @@
     padding: 120px 80px;
 
     img {
+      width:100%;
       max-width: 320px;
     }
 
@@ -35,7 +36,7 @@
   main {
     flex: 8;
 
-    padding: 0 32px;
+    padding: 32px 32px;
 
     display: flex;
     align-items: center;
@@ -143,3 +144,13 @@
 
   }
 }
+
+@media (max-width: 426px) {
+  #page-auth {
+    flex-direction: column;
+    aside {
+      padding: 32px 32px;
+    }
+  }
+}
+

@@ -26,8 +26,9 @@
   }
 
   main {
-    max-width: 800px;
+    max-width: 832px;
     margin: 0 auto;
+    padding: 32px;
 
     .room-title {
       margin: 32px 0 24px;
@@ -107,6 +108,24 @@
 
     .question-list {
       margin-top: 32px;
+    }
+  }
+}
+
+
+@media (max-width: 426px) {
+  #page-room  {
+    header {
+      .content {
+        flex-direction: column;
+        gap: 16px;
+
+        > div {
+          flex-direction: column;
+        }
+      }
+
+     
     }
   }
 }
