@@ -1,3 +1,4 @@
+import { ToggleDarkTheme } from "./components/ToggleDarkTheme";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import { Home } from "./pages/Home";
@@ -10,6 +11,7 @@ import { AuthContextProvider } from "./contexts/AuthContext";
 function App() {
   return (
     <BrowserRouter>
+    <ToggleDarkTheme/>
       <AuthContextProvider>
         <Switch>
           <Route path="/" exact={true} component={Home} />
