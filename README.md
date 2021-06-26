@@ -28,15 +28,17 @@ $ git clone https://github.com/rafaasimi/letmeask-nextlevelweektogether.git
 $ cd letmeask
 
 # Instale as dependências
-$ yarn install
+$ yarn or npm install
 
 # Inicie o projeto
-$ yarn dev
+$ yarn start or npm start
 ```
 
 <h3>🖼 Layout</h3>
 <img src="/.github/letmeask_home.PNG">
 <img src="/.github/letmeask_criarsala.PNG">
+<img src="/.github/letmeask_room.PNG">
+<img src="/.github/letmeask_roomadmin.PNG">
 
 ## 📝 Licença
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
